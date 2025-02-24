@@ -1,6 +1,6 @@
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Takuro-U&theme=aura&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Takuro-U&show_icons=true&theme=aura" />
+<p align="left" height="150px"> 
+  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Takuro-U&theme=aura&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img height="100%" alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Takuro-U&show_icons=true&theme=aura" />
 </p>p
 <h2>Programming Languages</h2>
 
