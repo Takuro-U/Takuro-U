@@ -2,7 +2,7 @@
 <br>
 <h2>Programming Languages</h2>
 <br>
-<>
+<div>
   
   ![](https://skillicons.dev/icons?i=js,typescript,php,html,css,sass)
   <br>
@@ -10,7 +10,7 @@
   <br>
 
   ![](https://skillicons.dev/icons?i=react,nodejs,express,laravel,tailwind)
-</>
+</div>
   
 
 
