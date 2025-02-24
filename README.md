@@ -1,14 +1,22 @@
-<div style="display: flex;">
-  <span style="margin-right: 20px;">
-    <h2>Programming Languages</h2>
-    <img src="https://skillicons.dev/icons?i=js,typescript,php,html,css,sass" alt="Technologies" />
-    <h2>Frame Works & Library</h2>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,tailwind" alt="Technologies" />
-  </span>
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Takuro-U&theme=aura&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  </span>
-</div>
+
+
+    
+![](https://skillicons.dev/icons?i=js,typescript,php,html,css,sass)
+<br>
+<h2>Frame Works & Library</h2>
+<br>
+
+![](https://skillicons.dev/icons?i=react,nodejs,express,laravel,tailwind)
+
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Takuro-U&theme=aura&show_icons=true&locale=en&layout=compact)
+<br>
+<h2>Programming Languages</h2>
+
+
+
+html要素の中にマークダウンの記述を
 
   
 
