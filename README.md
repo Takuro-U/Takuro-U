@@ -1,5 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Takuro-U&theme=aura&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/apiusername=Takuro-U&show_icons=true&theme=aura" />
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/username=Takuro-U&show_icons=true&theme=aura" />
 <h2>Programming Languages</h2>
 
 ![](https://skillicons.dev/icons?i=js,typescript,php,html,css,sass)<br>
