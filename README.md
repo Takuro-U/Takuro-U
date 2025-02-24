@@ -4,19 +4,10 @@
 ![](https://skillicons.dev/icons?i=js,typescript,php,html,css,sass)<br>
 <h2>Frame Works & Library</h2>
 
-![](https://skillicons.dev/icons?i=react,nodejs,express,laravel,tailwind)<br>
+![](https://skillicons.dev/icons?i=react,vite,nodejs,express,laravel,tailwind,materialui)<br>
+<h2>etc</h2>
 
-
-
-
-
-
-
-
-html要素の中にマークダウンの記述を
-
-  
-
+![](https://skillicons.dev/icons?i=git,github,mysql,firebase,vscode,figma)<br>
 
 <!--
 **Takuro-U/Takuro-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
