@@ -1,5 +1,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Takuro-U&theme=aura&show_icons=true&locale=en&layout=compact)
-
 <br>
 <h1>Programming Languages</h1>
 <br>
