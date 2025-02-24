@@ -1,4 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Takuro-U&theme=aura&show_icons=true&locale=en&layout=compact)
+<br>
+<u>Programming Languages</u>
 ![](https://skillicons.dev/icons?i=html,css,sass,js,typescript,php)
 
 <!--
