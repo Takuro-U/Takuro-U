@@ -1,6 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Takuro-U&theme=aura&show_icons=true&locale=en&layout=compact)
 <br>
-<h1>Programming Languages</h1>
+<p style="border-bottom solid 1px;">Programming Languages<p>
 <br>
 
 ![](https://skillicons.dev/icons?i=html,css,sass,js,typescript,php)
