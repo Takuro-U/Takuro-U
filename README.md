@@ -1,11 +1,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Takuro-U&theme=aura&show_icons=true&locale=en&layout=compact)
 <br>
-<h1>Programming Languages<h1>
+<h2>Programming Languages</h2>
 <br>
 
 ![](https://skillicons.dev/icons?i=html,css,sass,js,typescript,php)
 <br>
-<h1>Frame Works & Library</h1>
+<h2>Frame Works & Library</h2>
 <br>
 
 ![](https://skillicons.dev/icons?i=react,nodejs,express,laravel,tailwind)
