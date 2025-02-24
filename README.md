@@ -2,13 +2,17 @@
 <br>
 <h2>Programming Languages</h2>
 <br>
+<>
+  
+  ![](https://skillicons.dev/icons?i=js,typescript,php,html,css,sass)
+  <br>
+  <h2>Frame Works & Library</h2>
+  <br>
 
-![](https://skillicons.dev/icons?i=js,typescript,php,html,css,sass)
-<br>
-<h2>Frame Works & Library</h2>
-<br>
+  ![](https://skillicons.dev/icons?i=react,nodejs,express,laravel,tailwind)
+</>
+  
 
-![](https://skillicons.dev/icons?i=react,nodejs,express,laravel,tailwind)
 
 <!--
 **Takuro-U/Takuro-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
