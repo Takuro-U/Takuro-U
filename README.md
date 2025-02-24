@@ -3,7 +3,7 @@
 <h2>Programming Languages</h2>
 <br>
 
-![](https://skillicons.dev/icons?i=html,css,sass,js,typescript,php)
+![](https://skillicons.dev/icons?i=js,typescript,php,html,css,sass)
 <br>
 <h2>Frame Works & Library</h2>
 <br>
