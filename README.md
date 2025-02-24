@@ -3,7 +3,7 @@
   <img height="180px" alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Takuro-U&show_icons=true&theme=aura" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Takuro-U&theme=aura&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Takuro-U&theme=aura&column=7)]
 
 <h2>Programming Languages</h2>
 
