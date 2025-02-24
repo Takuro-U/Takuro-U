@@ -8,7 +8,7 @@
 <h1>Frame Works & Library</h1>
 <br>
 
-![](https://skillicons.dev/icons?i=react,nodejs,express,laravel)
+![](https://skillicons.dev/icons?i=react,nodejs,express,laravel,tailwind)
 
 <!--
 **Takuro-U/Takuro-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
